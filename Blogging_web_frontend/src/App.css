@@ -1,0 +1,55 @@
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.blog {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.author {
+  font-weight: bold;
+}
+
+.categories {
+  color: #555;
+}
+
+.keywords {
+  color: #555;
+}
+
+.rating {
+  color: #ff9800;
+  font-weight: bold;
+}
+
+.comments {
+  margin-top: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
